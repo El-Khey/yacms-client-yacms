@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "ramadan",
+    "title": "Landing Page",
     "description": "",
     "keywords": []
   },
-  "theme": "elegant",
+  "theme": "phantom-violet",
   "blocks": [
-    "./ramadan-cagnotte.json"
+    "./hero001.json"
   ]
 }
