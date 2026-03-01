@@ -11,7 +11,6 @@
   },
   "theme": "amber",
   "blocks": [
-    "./ramadan-cagnotte.json",
-    "./navigation002.json"
+    "./hero003.json"
   ]
 }
