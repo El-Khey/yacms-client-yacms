@@ -9,9 +9,10 @@
       "page"
     ]
   },
-  "theme": "amber",
+  "theme": "light",
   "blocks": [
     "./hero003.json",
-    "./navigation002.json"
+    "./navigation002.json",
+    "./hero007.json"
   ]
 }
