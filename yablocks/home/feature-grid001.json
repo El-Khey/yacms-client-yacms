@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "component": "blocks/content/features/FeatureGrid001",
+    "section": "home/feature-grid001"
+  },
+  "data": {
+    "title": "Everything You Need to Bring Ideas to Life",
+    "features": [
+      {
+        "title": "AI Script Writer",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "images": [
+          {
+            "src": "/assets/images/c3703f15c9764e087c1668ca9527b196-writer-img-02.webp",
+            "alt": "Writer interface"
+          },
+          {
+            "src": "/assets/images/writer-img-01.webp",
+            "alt": "Script editor"
+          }
+        ],
+        "size": "small"
+      },
+      {
+        "title": "Video Generator",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "images": [
+          {
+            "src": "/assets/images/87fb8c99f2b8393d50eef87fd2d45422-video-img-01.webp",
+            "alt": "Video preview"
+          },
+          {
+            "src": "/assets/images/d22014e7fc810a3e410b162fcb08f711-video-img-02.webp",
+            "alt": "Video player"
+          }
+        ],
+        "size": "large"
+      },
+      {
+        "title": "Auto Edit & Subtitles",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "images": [
+          {
+            "src": "/assets/images/edit-img-01.webp",
+            "alt": "Edit preview"
+          },
+          {
+            "src": "/assets/images/edit-img-03.webp",
+            "alt": "Edit interface"
+          }
+        ],
+        "size": "large"
+      },
+      {
+        "title": "AI Voiceovers",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "images": [
+          {
+            "src": "/assets/images/voice-img-01.webp",
+            "alt": "Voice interface"
+          },
+          {
+            "src": "/assets/images/7c5b3324f9de17f9a1984f05f041d20e-voice-img-02.webp",
+            "alt": "Voice settings"
+          }
+        ],
+        "size": "small"
+      }
+    ]
+  }
+}

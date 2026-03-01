@@ -12,6 +12,9 @@
   "theme": "arctic-slate",
   "blocks": [
     "./navigation002.json",
-    "./hero007.json"
+    "./hero007.json",
+    "./trust-logos001.json",
+    "./feature-grid001.json",
+    "./use-case-tabs001.json"
   ]
 }
