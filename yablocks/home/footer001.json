@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "component": "blocks/layout/footer/Footer001",
+    "section": "home/footer001"
+  },
+  "data": {
+    "ctaTitle": "Create Stunning Videos in Seconds with VisioMate AI",
+    "ctaDescription": "Trusted by 1M+ daily users, VisioMate AI transforms your ideas into professional-quality videos — instantly.",
+    "ctaButtonText": "Create your Video Now",
+    "ctaButtonHref": "#pricing",
+    "ctaImage1": "/images/cta/cta-img-01.png",
+    "ctaImage2": "/images/cta/cta-img-02.png",
+    "footerLogo": "/images/logos/footer-logo.webp",
+    "footerLogoAlt": "Visiomate logo combining a stylized play button and star icon with the text 'Visiomate'.",
+    "footerDescription": "From script to screen, Visiomate helps creators and brands produce cinematic videos in seconds",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/",
+        "ariaLabel": "visit our Facebook page"
+      },
+      {
+        "href": "https://www.x.com/",
+        "ariaLabel": "visit our X page"
+      },
+      {
+        "href": "https://www.linkedin.com/",
+        "ariaLabel": "visit our LinkedIn page"
+      },
+      {
+        "href": "https://www.google.com/",
+        "ariaLabel": "visit our Google page"
+      }
+    ],
+    "productTitle": "Product",
+    "productLinks": [
+      {
+        "label": "Features",
+        "href": "#feature"
+      },
+      {
+        "label": "Pricing Plans",
+        "href": "#pricing"
+      },
+      {
+        "label": "Use Cases",
+        "href": "#use-case"
+      },
+      {
+        "label": "Testimonials",
+        "href": "#testimonial"
+      },
+      {
+        "label": "FAQ",
+        "href": "#faq"
+      }
+    ],
+    "contactItems": [
+      {
+        "text": "support@visiomate.ai"
+      },
+      {
+        "text": "+1 (555) 234-5678"
+      },
+      {
+        "text": "San Francisco, CA"
+      }
+    ],
+    "bottomLinks": [
+      {
+        "label": "License",
+        "href": "/information-pages/licenses"
+      },
+      {
+        "label": "Style guide",
+        "href": "/information-pages/styleguide"
+      },
+      {
+        "label": "Changelog",
+        "href": "/information-pages/changelog"
+      },
+      {
+        "label": "404",
+        "href": "/404"
+      }
+    ],
+    "bottomText": "Design & Developed By - ideapeel, Powered by - Webflow",
+    "footerBigLogo": "/images/logos/footer-big-logo.png",
+    "backgroundImageRight": "/images/bg/footer-right.webp",
+    "backgroundImageLeft": "/images/bg/footer-left.webp"
+  }
+}
