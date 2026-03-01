@@ -11,12 +11,6 @@
   },
   "theme": "arctic-slate",
   "blocks": [
-    "./navigation002.json",
-    "./feature-grid001.json",
-    "./use-case-tabs001.json",
-    "./video-showcase001.json",
-    "./trust-logos001.json",
-    "./pricing-cards001.json",
-    "./faq001.json"
+    "./navigation002.json"
   ]
 }

@@ -5,28 +5,31 @@
   },
   "data": {
     "logo": {
-      "image": "Sample text",
+      "image": "/logos/visiomate-logo.png",
       "text": "Sample text",
       "href": "/"
     },
     "links": [
       {
-        "label": "Sample Label",
+        "label": "Features",
         "href": "https://example.com"
       },
       {
-        "label": "Sample Label",
+        "label": "Use Case",
         "href": "https://example.com"
       },
       {
-        "label": "Sample Label",
+        "label": "Pricing",
         "href": "https://example.com"
+      },
+      {
+        "label": "Faq",
+        "href": ""
       }
     ],
     "cta": {
-      "text": "Sample text",
-      "href": "https://example.com",
-      "icon": "star"
+      "text": "Free credits",
+      "href": "https://example.com"
     }
   }
 }
