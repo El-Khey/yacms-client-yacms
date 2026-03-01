@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "component": "blocks/content/features/FeatureGrid001",
+    "section": "home/feature-grid001"
+  },
+  "data": {
+    "title": "Everything You Need to Bring Ideas to Life",
+    "features": [
+      {
+        "title": "AI Script Writer",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "images": [
+          {
+            "src": "/images/chaufferie.jpg",
+            "alt": "Writer interface"
+          },
+          {
+            "src": "/images/gro.jpg",
+            "alt": "Script editor"
+          }
+        ],
+        "size": "small"
+      },
+      {
+        "title": "Video Generator",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "images": [
+          {
+            "src": "/images/robot.jpg",
+            "alt": "Video preview"
+          },
+          {
+            "src": "/images/panneaux-solaires-toit-cellule-photovoltaique.avif",
+            "alt": "Video player"
+          }
+        ],
+        "size": "large"
+      },
+      {
+        "title": "Auto Edit & Subtitles",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "images": [
+          {
+            "src": "/images/unnamed.png",
+            "alt": "Edit preview"
+          },
+          {
+            "src": "/images/photo-1591604129939-f1efa4d9f7fa.jpg",
+            "alt": "Edit interface"
+          }
+        ],
+        "size": "large"
+      },
+      {
+        "title": "AI Voiceovers",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "images": [
+          {
+            "src": "/images/bf.png",
+            "alt": "Voice interface"
+          },
+          {
+            "src": "/images/vinland.png",
+            "alt": "Voice settings"
+          }
+        ],
+        "size": "small"
+      }
+    ]
+  }
+}

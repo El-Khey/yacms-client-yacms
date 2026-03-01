@@ -11,8 +11,8 @@
   },
   "theme": "light",
   "blocks": [
-    "./hero003.json",
     "./navigation002.json",
+    "./feature-grid001.json",
     "./hero007.json"
   ]
 }
