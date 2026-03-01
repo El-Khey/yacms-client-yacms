@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/trust/TrustLogos001",
+    "section": "home/trust-logos001"
+  },
+  "data": {
+    "title": "Trusted by 10K+ Creators",
+    "logos": [
+      {
+        "src": "/logos/blogs-1.jpg.webp",
+        "alt": "Brand logo 1",
+        "width": "192.5"
+      },
+      {
+        "src": "/images/logos/b-logo-02.webp",
+        "alt": "Brand logo 2",
+        "width": "183"
+      },
+      {
+        "src": "/images/logos/b-logo-03.webp",
+        "alt": "Brand logo 3",
+        "width": "184"
+      },
+      {
+        "src": "/logos/qualification-rge-qualisol.webp",
+        "alt": "Brand logo 4",
+        "width": "153.5"
+      },
+      {
+        "src": "/logos/logo-qualipac.png",
+        "alt": "Brand logo 5",
+        "width": "146.5"
+      },
+      {
+        "src": "/images/logos/b-logo-06.webp",
+        "alt": "Brand logo 6",
+        "width": "149"
+      }
+    ]
+  }
+}

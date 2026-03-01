@@ -9,10 +9,14 @@
       "page"
     ]
   },
-  "theme": "light",
+  "theme": "arctic-slate",
   "blocks": [
     "./navigation002.json",
     "./feature-grid001.json",
-    "./hero007.json"
+    "./use-case-tabs001.json",
+    "./video-showcase001.json",
+    "./trust-logos001.json",
+    "./pricing-cards001.json",
+    "./faq001.json"
   ]
 }

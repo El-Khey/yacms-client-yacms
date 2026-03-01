@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "component": "blocks/content/features/VideoShowcase001",
+    "section": "home/video-showcase001"
+  },
+  "data": {
+    "title": "We don't just make tools.\nWe're building the future of\nvideo content creation.",
+    "videos": [
+      {
+        "mp4": "/videos/demo/demo-1.mp4",
+        "webm": "https://www.youtube.com/watch?v=nS_yuN2ogAw",
+        "poster": "/images/Code Geass.jpg"
+      },
+      {
+        "mp4": "/videos/demo/demo-2.mp4",
+        "webm": "",
+        "poster": ""
+      },
+      {
+        "mp4": "/videos/demo/demo-3.mp4",
+        "webm": "",
+        "poster": ""
+      },
+      {
+        "mp4": "/videos/demo/demo-4.mp4",
+        "webm": "",
+        "poster": ""
+      },
+      {
+        "mp4": "/videos/demo/demo-5.mp4",
+        "webm": "",
+        "poster": ""
+      }
+    ]
+  }
+}

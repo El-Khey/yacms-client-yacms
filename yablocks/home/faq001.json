@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "component": "blocks/content/faq/Faq001",
+    "section": "home/faq001"
+  },
+  "data": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything You've Been Wondering About, Answered in One Convenient Place",
+    "backgroundImage": "",
+    "items": [
+      {
+        "question": "Who owns the videos created with Visiomate?",
+        "answer": "You do — 100%. Every video generated through Visiomate belongs entirely to you, including full commercial rights. All projects are encrypted and stored safely. Only you have access to your videos and assets."
+      },
+      {
+        "question": "Do I need video editing experience to use it?",
+        "answer": "You do — 100%. Every video generated through Visiomate belongs entirely to you, including full commercial rights. All projects are encrypted and stored safely. Only you have access to your videos and assets."
+      },
+      {
+        "question": "What platforms are videos optimized for?",
+        "answer": "You do — 100%. Every video generated through Visiomate belongs entirely to you, including full commercial rights. All projects are encrypted and stored safely. Only you have access to your videos and assets."
+      },
+      {
+        "question": "Can I upload my own clips or brand assets?",
+        "answer": "You do — 100%. Every video generated through Visiomate belongs entirely to you, including full commercial rights. All projects are encrypted and stored safely. Only you have access to your videos and assets."
+      },
+      {
+        "question": "What's included in the Free Starter plan?",
+        "answer": "You do — 100%. Every video generated through Visiomate belongs entirely to you, including full commercial rights. All projects are encrypted and stored safely. Only you have access to your videos and assets."
+      }
+    ]
+  }
+}
