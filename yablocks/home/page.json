@@ -9,7 +9,7 @@
       "page"
     ]
   },
-  "theme": "midnight-emerald",
+  "theme": "arctic-slate",
   "blocks": [
     "./navigation002.json",
     "./hero007.json",

@@ -7,56 +7,29 @@
     "title": "Perfect for Any Type of Content Creator",
     "tabs": [
       {
-        "label": "Marketers",
-        "sublabel": "Social media ad videos in minutes",
-        "title": "Create Social Media Ad Videos in Minutes",
-        "description": "Turn your campaign ideas into scroll-stopping visuals — instantly. With Visiomate, you can generate ad-ready videos, complete with branded colors, captions, and voiceovers — all optimized for every platform.",
-        "highlights": [
-          {
-            "icon": "/assets/images/content-icon-01.webp",
-            "text": "5× faster campaign video production"
-          },
-          {
-            "icon": "/assets/images/content-icon-02.webp",
-            "text": "82% higher engagement on AI-crafted ads"
-          },
-          {
-            "icon": "/assets/images/content-icon-03.webp",
-            "text": "40% lower cost per creative for agencies and startups"
-          }
-        ],
-        "tagline": "Launch faster. Engage smarter. Market with AI.",
-        "ctaText": "Free Credits",
-        "ctaLink": "#pricing",
-        "image": {
-          "src": "/assets/images/tab-01.webp",
-          "alt": "Group of young professionals working on laptops"
-        }
-      },
-      {
         "label": "YouTubers",
         "sublabel": "Script, edit, and upload faster.",
         "title": "Create Social Media Ad Videos in Minutes",
         "description": "Turn your campaign ideas into scroll-stopping visuals — instantly. With Visiomate, you can generate ad-ready videos, complete with branded colors, captions, and voiceovers — all optimized for every platform.",
         "highlights": [
           {
-            "icon": "/assets/images/content-icon-01.webp",
+            "icon": "target",
             "text": "5× faster campaign video production"
           },
           {
-            "icon": "/assets/images/content-icon-02.webp",
+            "icon": "check-circle",
             "text": "82% higher engagement on AI-crafted ads"
           },
           {
-            "icon": "/assets/images/content-icon-03.webp",
+            "icon": "check-circle",
             "text": "40% lower cost per creative for agencies and startups"
           }
         ],
         "tagline": "Launch faster. Engage smarter. Market with AI.",
         "ctaText": "Free Credits",
-        "ctaLink": "#pricing",
+        "ctaLink": "#client",
         "image": {
-          "src": "/assets/images/tab-02.webp",
+          "src": "/images/gro.jpg",
           "alt": "Woman with blazer and sunglasses"
         }
       },
@@ -67,15 +40,15 @@
         "description": "Turn your campaign ideas into scroll-stopping visuals — instantly. With Visiomate, you can generate ad-ready videos, complete with branded colors, captions, and voiceovers — all optimized for every platform.",
         "highlights": [
           {
-            "icon": "/assets/images/content-icon-01.webp",
+            "icon": "heart",
             "text": "5× faster campaign video production"
           },
           {
-            "icon": "/assets/images/content-icon-02.webp",
+            "icon": "shield",
             "text": "82% higher engagement on AI-crafted ads"
           },
           {
-            "icon": "/assets/images/content-icon-03.webp",
+            "icon": "star",
             "text": "40% lower cost per creative for agencies and startups"
           }
         ],
@@ -83,35 +56,8 @@
         "ctaText": "Free Credits",
         "ctaLink": "#pricing",
         "image": {
-          "src": "/assets/images/tab-03.webp",
+          "src": "/images/robot.jpg",
           "alt": "Person in red beanie typing on laptop"
-        }
-      },
-      {
-        "label": "Agencies",
-        "sublabel": "Deliver branded content at scale.",
-        "title": "Create Social Media Ad Videos in Minutes",
-        "description": "Turn your campaign ideas into scroll-stopping visuals — instantly. With Visiomate, you can generate ad-ready videos, complete with branded colors, captions, and voiceovers — all optimized for every platform.",
-        "highlights": [
-          {
-            "icon": "/assets/images/content-icon-01.webp",
-            "text": "5× faster campaign video production"
-          },
-          {
-            "icon": "/assets/images/content-icon-02.webp",
-            "text": "82% higher engagement on AI-crafted ads"
-          },
-          {
-            "icon": "/assets/images/content-icon-03.webp",
-            "text": "40% lower cost per creative for agencies and startups"
-          }
-        ],
-        "tagline": "Launch faster. Engage smarter. Market with AI.",
-        "ctaText": "Free Credits",
-        "ctaLink": "#pricing",
-        "image": {
-          "src": "/assets/images/tab-04.webp",
-          "alt": "Four diverse professionals smiling"
         }
       }
     ]
