@@ -11,11 +11,11 @@
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "images": [
           {
-            "src": "/assets/images/c3703f15c9764e087c1668ca9527b196-writer-img-02.webp",
+            "src": "/images/chaufferie.jpg",
             "alt": "Writer interface"
           },
           {
-            "src": "/assets/images/writer-img-01.webp",
+            "src": "/images/unnamed.png",
             "alt": "Script editor"
           }
         ],
@@ -26,11 +26,11 @@
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "images": [
           {
-            "src": "/assets/images/87fb8c99f2b8393d50eef87fd2d45422-video-img-01.webp",
+            "src": "/images/wallpapersden.com_mushoku-tensei-jobless-reincarnation-family_1920x1080.jpg",
             "alt": "Video preview"
           },
           {
-            "src": "/assets/images/d22014e7fc810a3e410b162fcb08f711-video-img-02.webp",
+            "src": "/images/panneaux-solaires-toit-cellule-photovoltaique.avif",
             "alt": "Video player"
           }
         ],
@@ -41,11 +41,11 @@
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "images": [
           {
-            "src": "/assets/images/edit-img-01.webp",
+            "src": "/images/robot.jpg",
             "alt": "Edit preview"
           },
           {
-            "src": "/assets/images/edit-img-03.webp",
+            "src": "/images/wallpaperflare.com_wallpaper (1).jpg",
             "alt": "Edit interface"
           }
         ],
@@ -56,11 +56,11 @@
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "images": [
           {
-            "src": "/assets/images/voice-img-01.webp",
+            "src": "/images/bf.png",
             "alt": "Voice interface"
           },
           {
-            "src": "/assets/images/7c5b3324f9de17f9a1984f05f041d20e-voice-img-02.webp",
+            "src": "/images/photo-1591604129939-f1efa4d9f7fa.jpg",
             "alt": "Voice settings"
           }
         ],
