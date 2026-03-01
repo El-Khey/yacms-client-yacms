@@ -18,6 +18,7 @@
     "./use-case-tabs001.json",
     "./testimonial002.json",
     "./pricing-cards001.json",
-    "./faq001.json"
+    "./faq001.json",
+    "./footer-columns.json"
   ]
 }
