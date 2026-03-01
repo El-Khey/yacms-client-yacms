@@ -11,6 +11,7 @@
   },
   "theme": "arctic-slate",
   "blocks": [
-    "./navigation002.json"
+    "./navigation002.json",
+    "./hero007.json"
   ]
 }
