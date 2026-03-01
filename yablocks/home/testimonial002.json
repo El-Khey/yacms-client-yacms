@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/testimonials/Testimonial002",
+    "section": "home/testimonial002"
+  },
+  "data": {
+    "title": "What Creators Say",
+    "subtitle": "Real stories from creators, marketers, and founders who built faster with Visiomate",
+    "testimonials": [
+      {
+        "cardImage": "/images/testimonials/card-img-01.webp",
+        "badge": "Youtuber",
+        "companyLogo": "/images/logos/logo-05.webp",
+        "quote": "Visiomate cut our video production time by 90%. The interface feels cinematic,",
+        "avatar": "/images/testimonials/avater-img-01.webp",
+        "name": "Ibrahim Kholil",
+        "role": "IT Manager, octapatech"
+      },
+      {
+        "cardImage": "/images/testimonials/card-img-02.webp",
+        "badge": "Youtuber",
+        "companyLogo": "/images/logos/logo-03.webp",
+        "quote": "Visiomate cut our video production time by 90%. The interface feels cinematic,",
+        "avatar": "/images/testimonials/avater-img-04.webp",
+        "name": "Shazzad",
+        "role": "Founder, octapatech"
+      },
+      {
+        "cardImage": "/images/testimonials/card-img-04.webp",
+        "badge": "Youtuber",
+        "companyLogo": "/images/logos/logo-04.webp",
+        "quote": "Visiomate cut our video production time by 90%. The interface feels cinematic,",
+        "avatar": "/images/testimonials/avater-img-02.webp",
+        "name": "Emma",
+        "role": "Manager, octapatech"
+      },
+      {
+        "cardImage": "/images/testimonials/card-img-05.webp",
+        "badge": "Youtuber",
+        "companyLogo": "/images/logos/logo-02.webp",
+        "quote": "Visiomate cut our video production time by 90%. The interface feels cinematic,",
+        "avatar": "/images/testimonials/avater-img-06.webp",
+        "name": "Nik Ibrahim",
+        "role": "Designer, octapatech"
+      },
+      {
+        "cardImage": "/images/testimonials/card-img-03.webp",
+        "badge": "Youtuber",
+        "companyLogo": "/images/logos/logo-01.webp",
+        "quote": "Visiomate cut our video production time by 90%. The interface feels cinematic,",
+        "avatar": "/images/testimonials/card-img-03.webp",
+        "name": "Mike John",
+        "role": "Head, octapatech"
+      }
+    ]
+  }
+}
