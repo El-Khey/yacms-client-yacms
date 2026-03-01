@@ -9,7 +9,7 @@
       "page"
     ]
   },
-  "theme": "amber",
+  "theme": "theme001",
   "blocks": [
     "./navigation002.json",
     "./hero007.json",
