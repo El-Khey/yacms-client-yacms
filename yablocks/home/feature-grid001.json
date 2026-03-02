@@ -4,64 +4,64 @@
     "section": "home/feature-grid001"
   },
   "data": {
-    "title": "Everything You Need to Bring Ideas to Life",
+    "title": "Tout ce qu'il faut pour un site web qui performe",
     "features": [
       {
-        "title": "AI Script Writer",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "title": "Design sur mesure",
+        "description": "Chaque site est conçu spécifiquement pour votre marque. Pas de templates génériques : nous créons une identité visuelle unique qui reflète votre activité et capte l'attention de vos visiteurs.",
         "images": [
           {
             "src": "/images/chaufferie.jpg",
-            "alt": "Writer interface"
+            "alt": "Interface de design personnalisé"
           },
           {
             "src": "/images/unnamed.png",
-            "alt": "Script editor"
+            "alt": "Maquette sur mesure"
           }
         ],
         "size": "small"
       },
       {
-        "title": "Video Generator",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "title": "Performance & SEO",
+        "description": "Des sites ultra-rapides avec un score Lighthouse de 95+ et une optimisation SEO native. Vos pages se chargent en moins d'une seconde et se positionnent en haut des résultats Google.",
         "images": [
           {
             "src": "/images/wallpapersden.com_mushoku-tensei-jobless-reincarnation-family_1920x1080.jpg",
-            "alt": "Video preview"
+            "alt": "Tableau de performance"
           },
           {
             "src": "/images/panneaux-solaires-toit-cellule-photovoltaique.avif",
-            "alt": "Video player"
+            "alt": "Résultats SEO"
           }
         ],
         "size": "large"
       },
       {
-        "title": "Auto Edit & Subtitles",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "title": "Responsive & Accessible",
+        "description": "Votre site s'adapte parfaitement à tous les écrans — mobile, tablette et desktop. Nous respectons les standards d'accessibilité pour que chaque visiteur profite d'une expérience optimale.",
         "images": [
           {
             "src": "/images/robot.jpg",
-            "alt": "Edit preview"
+            "alt": "Vue responsive multi-écrans"
           },
           {
             "src": "/images/wallpaperflare.com_wallpaper (1).jpg",
-            "alt": "Edit interface"
+            "alt": "Adaptation mobile"
           }
         ],
         "size": "large"
       },
       {
-        "title": "AI Voiceovers",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "title": "Administration simple",
+        "description": "Gérez votre contenu en toute autonomie grâce à notre interface d'administration intuitive. Modifiez vos textes, images et pages en quelques clics, sans aucune compétence technique.",
         "images": [
           {
             "src": "/images/bf.png",
-            "alt": "Voice interface"
+            "alt": "Interface d'administration"
           },
           {
             "src": "/images/photo-1591604129939-f1efa4d9f7fa.jpg",
-            "alt": "Voice settings"
+            "alt": "Panneau de gestion"
           }
         ],
         "size": "small"

@@ -5,27 +5,27 @@
   },
   "data": {
     "brand": {
-      "alt": "Mon Entreprise",
-      "tagline": "Votre partenaire de confiance depuis 2020. Nous accompagnons les professionnels et les particuliers avec des solutions sur mesure."
+      "alt": "YACMS",
+      "tagline": "Nous concevons des sites web performants, élégants et optimisés pour convertir. De la maquette à la mise en ligne, YACMS est votre partenaire digital."
     },
     "contact": {
-      "phone": "+33 1 23 45 67 89",
-      "email": "contact@example.com",
-      "address": "123 rue Example, 75001 Paris",
+      "phone": "+33 7 00 00 00 00",
+      "email": "contact@yacms.dev",
+      "address": "Paris, France",
       "hours": "Lun-Ven : 9h-18h"
     },
     "socialLinks": [
       {
-        "platform": "facebook",
-        "href": "https://example.com"
+        "platform": "github",
+        "href": "https://github.com/zestones/yacms"
       },
       {
-        "platform": "facebook",
-        "href": "https://example.com"
+        "platform": "linkedin",
+        "href": "https://linkedin.com"
       },
       {
-        "platform": "facebook",
-        "href": "https://example.com"
+        "platform": "twitter",
+        "href": "https://twitter.com"
       }
     ],
     "linkGroups": [
@@ -33,16 +33,16 @@
         "title": "Services",
         "links": [
           {
-            "text": "Chauffage",
-            "href": "/services/chauffage"
+            "text": "Site vitrine",
+            "href": "#features"
           },
           {
-            "text": "Plomberie",
-            "href": "/services/plomberie"
+            "text": "Landing page",
+            "href": "#use-case"
           },
           {
-            "text": "Climatisation",
-            "href": "/services/climatisation"
+            "text": "E-commerce",
+            "href": "#pricing"
           }
         ]
       },
@@ -51,15 +51,15 @@
         "links": [
           {
             "text": "À propos",
-            "href": "/about"
+            "href": "#about"
           },
           {
             "text": "Réalisations",
-            "href": "/realisations"
+            "href": "#use-case"
           },
           {
             "text": "Contact",
-            "href": "/contact"
+            "href": "#contact"
           }
         ]
       },
@@ -68,7 +68,7 @@
         "links": [
           {
             "text": "FAQ",
-            "href": "/faq"
+            "href": "#faq"
           },
           {
             "text": "Blog",
@@ -76,13 +76,13 @@
           },
           {
             "text": "Devis gratuit",
-            "href": "/devis"
+            "href": "#pricing"
           }
         ]
       }
     ],
     "legal": {
-      "copyright": "Tous droits réservés.",
+      "copyright": "YACMS — Tous droits réservés.",
       "links": [
         {
           "text": "Mentions légales",
@@ -100,16 +100,16 @@
     },
     "certifications": [
       {
-        "src": "Sample text",
-        "alt": "Sample text"
+        "src": "",
+        "alt": ""
       },
       {
-        "src": "Sample text",
-        "alt": "Sample text"
+        "src": "",
+        "alt": ""
       },
       {
-        "src": "Sample text",
-        "alt": "Sample text"
+        "src": "",
+        "alt": ""
       }
     ]
   }

@@ -5,35 +5,31 @@
   },
   "data": {
     "logo": {
-      "image": "/logos/visiomate-logo.png",
-      "text": "Sample text",
+      "image": "/logos/yacms-logo.png",
+      "text": "YACMS",
       "href": "/"
     },
     "links": [
       {
-        "label": "Feature",
-        "href": "https://example.com"
+        "label": "Fonctionnalités",
+        "href": "#features"
       },
       {
-        "label": "UseCase",
-        "href": "https://example.com"
+        "label": "Cas d'usage",
+        "href": "#use-case"
       },
       {
-        "label": "Content",
-        "href": "https://example.com"
+        "label": "Tarifs",
+        "href": "#pricing"
       },
       {
-        "label": "",
-        "href": ""
-      },
-      {
-        "label": "Pricng",
-        "href": ""
+        "label": "FAQ",
+        "href": "#faq"
       }
     ],
     "cta": {
-      "text": "Contact us",
-      "href": "https://example.com"
+      "text": "Lancer mon projet",
+      "href": "#pricing"
     }
   }
 }

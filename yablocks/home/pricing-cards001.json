@@ -4,94 +4,94 @@
     "section": "home/pricing-cards001"
   },
   "data": {
-    "title": "Choose the Perfect Plan for Your Creative Journey",
-    "subtitle": "Flexible plans designed for creators, teams, and growing brands.",
-    "badge": "Start free, upgrade anytime — no hidden fees.",
+    "title": "Des tarifs transparents, adaptés à vos ambitions",
+    "subtitle": "Chaque formule inclut un site sur mesure, hébergement, SEO et support. Sans surprise.",
+    "badge": "Satisfait ou remboursé pendant 30 jours.",
     "plans": [
       {
-        "name": "Starter",
-        "description": "Perfect for beginners exploring AI video creation.",
-        "price": "Free Forever",
+        "name": "Essentiel",
+        "description": "Idéal pour les indépendants et petites entreprises qui veulent une présence en ligne professionnelle.",
+        "price": "990€",
+        "priceSuffix": " unique",
+        "badge": "",
+        "highlighted": false,
+        "offset": true,
+        "ctaText": "Choisir Essentiel",
+        "ctaHref": "#contact",
+        "checkmarkIcon": "/images/icons/checkmark-circle-01.webp",
+        "features": [
+          {
+            "text": "Site vitrine jusqu'à 5 pages"
+          },
+          {
+            "text": "Design responsive sur mesure"
+          },
+          {
+            "text": "Optimisation SEO de base"
+          },
+          {
+            "text": "Formulaire de contact intégré"
+          },
+          {
+            "text": "Hébergement inclus 1 an"
+          }
+        ]
+      },
+      {
+        "name": "Business",
+        "description": "Pour les entreprises qui veulent un site performant, optimisé et entièrement autonome.",
+        "price": "1 990€",
+        "priceSuffix": " unique",
+        "badge": "Le plus populaire",
+        "highlighted": true,
+        "offset": false,
+        "ctaText": "Choisir Business",
+        "ctaHref": "#contact",
+        "checkmarkIcon": "/images/icons/checkmark-circle-01.webp",
+        "features": [
+          {
+            "text": "Site jusqu'à 15 pages"
+          },
+          {
+            "text": "Panneau d'administration complet"
+          },
+          {
+            "text": "SEO avancé & Google Analytics"
+          },
+          {
+            "text": "Blog intégré & gestion de contenu"
+          },
+          {
+            "text": "Support prioritaire 6 mois"
+          }
+        ]
+      },
+      {
+        "name": "Premium",
+        "description": "Pour les projets ambitieux qui nécessitent des fonctionnalités avancées et un accompagnement dédié.",
+        "price": "Sur devis",
         "priceSuffix": "",
         "badge": "",
         "highlighted": false,
         "offset": true,
-        "ctaText": "Start Free",
-        "ctaHref": "#use-case",
+        "ctaText": "Nous contacter",
+        "ctaHref": "#contact",
         "checkmarkIcon": "/images/icons/checkmark-circle-01.webp",
         "features": [
           {
-            "text": "Generate up to 5 videos/month"
+            "text": "Pages illimitées & fonctionnalités custom"
           },
           {
-            "text": "Access to AI Script Writer & Voiceovers"
+            "text": "E-commerce & paiement en ligne"
           },
           {
-            "text": "Basic editing tools"
+            "text": "Intégrations API sur mesure"
           },
           {
-            "text": "Visiomate watermark on exports"
+            "text": "Accompagnement stratégique dédié"
           },
           {
-            "text": "720p video quality"
-          }
-        ]
-      },
-      {
-        "name": "Pro",
-        "description": "Best for creators and marketers who want quality and speed.",
-        "price": "$19",
-        "priceSuffix": "/month",
-        "badge": "Most Popular",
-        "highlighted": true,
-        "offset": false,
-        "ctaText": "Upgrade to Pro",
-        "ctaHref": "#use-case",
-        "checkmarkIcon": "/images/icons/checkmark-circle-01.webp",
-        "features": [
-          {
-            "text": "Unlimited video generation"
-          },
-          {
-            "text": "Watermark-free HD exports (1080p)"
-          },
-          {
-            "text": "Smart subtitles + AI voice sync"
-          },
-          {
-            "text": "Brand colors & logo integration"
-          },
-          {
-            "text": "Priority rendering speed"
-          }
-        ]
-      },
-      {
-        "name": "Creator",
-        "description": "Ideal for teams, agencies, and power users.",
-        "price": "$49",
-        "priceSuffix": "/month",
-        "badge": "",
-        "highlighted": false,
-        "offset": true,
-        "ctaText": "Upgrade to Pro",
-        "ctaHref": "#use-case",
-        "checkmarkIcon": "/images/icons/checkmark-circle-01.webp",
-        "features": [
-          {
-            "text": "Multi-user access & collaboration"
-          },
-          {
-            "text": "4K export quality"
-          },
-          {
-            "text": "Advanced AI customization"
-          },
-          {
-            "text": "Analytics dashboard for campaigns"
-          },
-          {
-            "text": "Dedicated support & API access"
+            "text": "Maintenance & support 12 mois"
           }
         ]
       }

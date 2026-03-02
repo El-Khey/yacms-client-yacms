@@ -5,16 +5,16 @@
   },
   "data": {
     "brand": {
-      "name": "YourBrand",
+      "name": "YACMS",
       "logo": "/images/unnamed.png",
-      "tagline": "Professional services and innovative solutions. Trusted by businesses worldwide for over a decade.",
-      "alt": "YourBrand Logo"
+      "tagline": "Cr\u00e9ation de sites web performants et sur mesure. Design moderne, SEO optimis\u00e9, livraison rapide.",
+      "alt": "YACMS Logo"
     },
     "contact": {
-      "address": "123 Main Street\nYour City, ST 12345",
-      "phone": "(555) 123-4567",
-      "email": "contact@yourbusiness.com",
-      "hours": "Mon-Fri: 9am-5pm\nSat: 10am-2pm"
+      "address": "Paris, France",
+      "phone": "+33 7 00 00 00 00",
+      "email": "contact@yacms.dev",
+      "hours": "Lun-Ven : 9h-18h"
     },
     "linkGroups": [
       {

@@ -4,60 +4,60 @@
     "section": "home/use-case-tabs001"
   },
   "data": {
-    "title": "Perfect for Any Type of Content Creator",
+    "title": "La solution idéale pour chaque projet web",
     "tabs": [
       {
-        "label": "YouTubers",
-        "sublabel": "Script, edit, and upload faster.",
-        "title": "Create Social Media Ad Videos in Minutes",
-        "description": "Turn your campaign ideas into scroll-stopping visuals — instantly. With Visiomate, you can generate ad-ready videos, complete with branded colors, captions, and voiceovers — all optimized for every platform.",
+        "label": "PME & Indépendants",
+        "sublabel": "Développez votre présence en ligne.",
+        "title": "Un site vitrine professionnel qui travaille pour vous 24h/24",
+        "description": "Vous êtes artisan, consultant ou commerçant ? Obtenez un site web moderne qui met en valeur votre expertise, attire de nouveaux clients et vous démarque de la concurrence. Nous gérons tout : design, contenu, hébergement et référencement.",
         "highlights": [
           {
             "icon": "target",
-            "text": "5× faster campaign video production"
+            "text": "3x plus de demandes de contact en moyenne"
           },
           {
             "icon": "check-circle",
-            "text": "82% higher engagement on AI-crafted ads"
+            "text": "Site livré en 7 jours, prêt à convertir"
           },
           {
             "icon": "check-circle",
-            "text": "40% lower cost per creative for agencies and startups"
+            "text": "95+ de score performance Google Lighthouse"
           }
         ],
-        "tagline": "Launch faster. Engage smarter. Market with AI.",
-        "ctaText": "Free Credits",
-        "ctaLink": "#client",
+        "tagline": "Votre vitrine digitale. Professionnelle. Efficace.",
+        "ctaText": "Voir les tarifs",
+        "ctaLink": "#pricing",
         "image": {
           "src": "/images/gro.jpg",
-          "alt": "Woman with blazer and sunglasses"
+          "alt": "Site vitrine pour PME"
         }
       },
       {
-        "label": "Startups",
-        "sublabel": "Explain your idea visually.",
-        "title": "Create Social Media Ad Videos in Minutes",
-        "description": "Turn your campaign ideas into scroll-stopping visuals — instantly. With Visiomate, you can generate ad-ready videos, complete with branded colors, captions, and voiceovers — all optimized for every platform.",
+        "label": "Startups & Agences",
+        "sublabel": "Lancez plus vite, itérez sans limites.",
+        "title": "Des landing pages et sites produit pensés pour la croissance",
+        "description": "Besoin d'une landing page percutante pour un lancement produit ou d'un site complet pour votre startup ? YACMS vous livre des pages optimisées pour la conversion, avec un design soigné et une architecture pensée pour scaler.",
         "highlights": [
           {
             "icon": "heart",
-            "text": "5× faster campaign video production"
+            "text": "Taux de conversion 2x supérieur à la moyenne"
           },
           {
             "icon": "shield",
-            "text": "82% higher engagement on AI-crafted ads"
+            "text": "Architecture modulaire et évolutive"
           },
           {
             "icon": "star",
-            "text": "40% lower cost per creative for agencies and startups"
+            "text": "Intégration analytics et tracking sur mesure"
           }
         ],
-        "tagline": "Launch faster. Engage smarter. Market with AI.",
-        "ctaText": "Free Credits",
+        "tagline": "Lancement rapide. Design percutant. Croissance assurée.",
+        "ctaText": "Démarrer mon projet",
         "ctaLink": "#pricing",
         "image": {
           "src": "/images/robot.jpg",
-          "alt": "Person in red beanie typing on laptop"
+          "alt": "Landing page pour startup"
         }
       }
     ]

@@ -4,21 +4,21 @@
     "section": "home/hero007"
   },
   "data": {
-    "badge": "From Text to Reel — Instantly",
-    "title": "Transform your ideas into stunning videos in minutes",
-    "subBadge": "No editing skills required.",
-    "subtitle": "Visiomate helps creators, marketers, and startups generate branded videos, reels, and content automatically",
+    "badge": "Votre site web, prêt en quelques jours",
+    "title": "Des sites web sur mesure qui convertissent vos visiteurs en clients",
+    "subBadge": "Design moderne. Performance maximale. Zéro compromis.",
+    "subtitle": "YACMS conçoit des sites vitrines, e-commerce et landing pages optimisés pour le SEO, ultra-rapides et parfaitement adaptés à votre image de marque",
     "cta": {
       "primary": {
-        "text": "Create your Video Now",
+        "text": "Demander un devis gratuit",
         "link": "#pricing"
       },
       "secondary": {
-        "text": "Watch Demo",
-        "link": "#demo"
+        "text": "Voir nos réalisations",
+        "link": "#use-case"
       }
     },
     "heroImage": "/images/hero.png",
-    "heroImageAlt": "Visiomate product screenshot"
+    "heroImageAlt": "Aperçu d'un site web créé par YACMS"
   }
 }
