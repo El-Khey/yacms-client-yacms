@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "YACMS — Cr\u00e9ation de sites web performants et sur mesure",
-    "description": "YACMS con\u00e7oit des sites vitrines, landing pages et e-commerces optimis\u00e9s pour le SEO et la conversion. Design moderne, performance maximale, livraison rapide.",
+    "title": "YACMS — Création de sites web performants et sur mesure",
+    "description": "YACMS conçoit des sites vitrines, landing pages et e-commerces optimisés pour le SEO et la conversion. Design moderne, performance maximale, livraison rapide.",
     "keywords": [
-      "cr\u00e9ation site web",
+      "création site web",
       "site vitrine",
       "landing page",
       "SEO",
@@ -21,7 +21,7 @@
     "./use-case-tabs001.json",
     "./testimonial002.json",
     "./pricing-cards001.json",
-    "./faq001.json",
+    "./faq002.json",
     "./footer-columns.json"
   ]
 }
