@@ -11,11 +11,11 @@
         "description": "Chaque site est conçu spécifiquement pour votre marque. Pas de templates génériques : nous créons une identité visuelle unique qui reflète votre activité et capte l'attention de vos visiteurs.",
         "images": [
           {
-            "src": "/images/chaufferie.jpg",
+            "src": "/images/design.jpg",
             "alt": "Interface de design personnalisé"
           },
           {
-            "src": "/images/unnamed.png",
+            "src": "/images/develop.jpg",
             "alt": "Maquette sur mesure"
           }
         ],
@@ -26,11 +26,11 @@
         "description": "Des sites ultra-rapides avec un score Lighthouse de 95+ et une optimisation SEO native. Vos pages se chargent en moins d'une seconde et se positionnent en haut des résultats Google.",
         "images": [
           {
-            "src": "/images/wallpapersden.com_mushoku-tensei-jobless-reincarnation-family_1920x1080.jpg",
+            "src": "/images/seo.avif",
             "alt": "Tableau de performance"
           },
           {
-            "src": "/images/panneaux-solaires-toit-cellule-photovoltaique.avif",
+            "src": "/images/pcgrat.jpg",
             "alt": "Résultats SEO"
           }
         ],
@@ -41,11 +41,11 @@
         "description": "Votre site s'adapte parfaitement à tous les écrans — mobile, tablette et desktop. Nous respectons les standards d'accessibilité pour que chaque visiteur profite d'une expérience optimale.",
         "images": [
           {
-            "src": "/images/robot.jpg",
+            "src": "/images/reponsive.jpg",
             "alt": "Vue responsive multi-écrans"
           },
           {
-            "src": "/images/wallpaperflare.com_wallpaper (1).jpg",
+            "src": "/images/access.jpg",
             "alt": "Adaptation mobile"
           }
         ],
@@ -56,11 +56,11 @@
         "description": "Gérez votre contenu en toute autonomie grâce à notre interface d'administration intuitive. Modifiez vos textes, images et pages en quelques clics, sans aucune compétence technique.",
         "images": [
           {
-            "src": "/images/bf.png",
+            "src": "/images/robot.jpg",
             "alt": "Interface d'administration"
           },
           {
-            "src": "/images/photo-1591604129939-f1efa4d9f7fa.jpg",
+            "src": "/images/dossier.jpg",
             "alt": "Panneau de gestion"
           }
         ],
