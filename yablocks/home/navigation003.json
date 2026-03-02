@@ -11,24 +11,28 @@
     },
     "links": [
       {
-        "label": "Features",
+        "label": "Feature",
         "href": "https://example.com"
       },
       {
-        "label": "Use Case",
+        "label": "UseCase",
         "href": "https://example.com"
       },
       {
-        "label": "Pricing",
+        "label": "Content",
         "href": "https://example.com"
       },
       {
-        "label": "Faq",
+        "label": "",
+        "href": ""
+      },
+      {
+        "label": "Pricng",
         "href": ""
       }
     ],
     "cta": {
-      "text": "Free credits",
+      "text": "Contact us",
       "href": "https://example.com"
     }
   }
