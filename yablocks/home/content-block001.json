@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "component": "blocks/content/features/ContentBlock001",
+    "section": "home/content-block001"
+  },
+  "data": {
+    "eyebrow": "Notre Vision",
+    "title": "Un site vitrine professionnel qui travaille pour vous ",
+    "lead": "Nous croyons qu'un habitat bien conçu est un habitat qui allie performance énergétique, confort au quotidien et respect de l'environnement. Chaque projet est une opportunité de faire mieux.",
+    "paragraphs": [
+      "Vous êtes artisan, consultant ou commerçant ? Obtenez un site web moderne qui met en valeur votre expertise, attire de nouveaux clients et vous démarque de la concurrence. Nous gérons tout : design, contenu, hébergement et référencement.",
+      "Besoin d'une landing page percutante pour un lancement produit ou d'un site complet pour votre startup ? YACMS vous livre des pages optimisées pour la conversion, avec un design soigné et une architecture pensée pour scaler.",
+      "Votre vitrine digitale. Professionnelle. Efficace. Lancement rapide. Design percutant. Croissance assurée. Des landing pages et sites produit pensés pour la croissance"
+    ],
+    "image": {
+      "src": "/images/robot.jpg",
+      "alt": "Technicien qualifié en intervention sur un système de chauffage"
+    },
+    "cta": {
+      "text": "Découvrir notre histoire",
+      "link": "/about"
+    },
+    "layout": "imageRight"
+  }
+}
