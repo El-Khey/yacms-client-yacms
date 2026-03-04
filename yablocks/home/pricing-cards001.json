@@ -11,7 +11,7 @@
       {
         "name": "Essentiel",
         "description": "Idéal pour les indépendants et petites entreprises qui veulent une présence en ligne professionnelle.",
-        "price": "990€",
+        "price": "500€",
         "priceSuffix": " unique",
         "badge": "",
         "highlighted": false,
@@ -31,16 +31,13 @@
           },
           {
             "text": "Formulaire de contact intégré"
-          },
-          {
-            "text": "Hébergement inclus 1 an"
           }
         ]
       },
       {
         "name": "Business",
         "description": "Pour les entreprises qui veulent un site performant, optimisé et entièrement autonome.",
-        "price": "1 990€",
+        "price": "900€",
         "priceSuffix": " unique",
         "badge": "Le plus populaire",
         "highlighted": true,
