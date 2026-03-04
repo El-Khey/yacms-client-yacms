@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "component": "blocks/content/pricing/PricingCards001",
+    "section": "home/pricing-cards001"
+  },
+  "data": {
+    "title": "Des tarifs transparents, adaptés à vos ambitions",
+    "subtitle": "Chaque formule inclut un site sur mesure, hébergement, SEO et support. Sans surprise.",
+    "badge": "Satisfait ou remboursé pendant 30 jours.",
+    "plans": [
+      {
+        "name": "Essentiel",
+        "description": "Idéal pour les indépendants et petites entreprises qui veulent une présence en ligne professionnelle.",
+        "price": "990€",
+        "priceSuffix": " unique",
+        "badge": "",
+        "highlighted": false,
+        "offset": true,
+        "ctaText": "Choisir Essentiel",
+        "ctaHref": "#contact",
+        "checkmarkIcon": "/images/icons/checkmark-circle-01.webp",
+        "features": [
+          {
+            "text": "Site vitrine jusqu'à 5 pages"
+          },
+          {
+            "text": "Design responsive sur mesure"
+          },
+          {
+            "text": "Optimisation SEO de base"
+          },
+          {
+            "text": "Formulaire de contact intégré"
+          },
+          {
+            "text": "Hébergement inclus 1 an"
+          }
+        ]
+      },
+      {
+        "name": "Business",
+        "description": "Pour les entreprises qui veulent un site performant, optimisé et entièrement autonome.",
+        "price": "1 990€",
+        "priceSuffix": " unique",
+        "badge": "Le plus populaire",
+        "highlighted": true,
+        "offset": false,
+        "ctaText": "Choisir Business",
+        "ctaHref": "#contact",
+        "checkmarkIcon": "/images/icons/checkmark-circle-01.webp",
+        "features": [
+          {
+            "text": "Site jusqu'à 15 pages"
+          },
+          {
+            "text": "Panneau d'administration complet"
+          },
+          {
+            "text": "SEO avancé & Google Analytics"
+          },
+          {
+            "text": "Blog intégré & gestion de contenu"
+          },
+          {
+            "text": "Support prioritaire 6 mois"
+          }
+        ]
+      },
+      {
+        "name": "Premium",
+        "description": "Pour les projets ambitieux qui nécessitent des fonctionnalités avancées et un accompagnement dédié.",
+        "price": "Sur devis",
+        "priceSuffix": "",
+        "badge": "",
+        "highlighted": false,
+        "offset": true,
+        "ctaText": "Nous contacter",
+        "ctaHref": "#contact",
+        "checkmarkIcon": "/images/icons/checkmark-circle-01.webp",
+        "features": [
+          {
+            "text": "Pages illimitées & fonctionnalités custom"
+          },
+          {
+            "text": "E-commerce & paiement en ligne"
+          },
+          {
+            "text": "Intégrations API sur mesure"
+          },
+          {
+            "text": "Accompagnement stratégique dédié"
+          },
+          {
+            "text": "Maintenance & support 12 mois"
+          }
+        ]
+      }
+    ]
+  }
+}

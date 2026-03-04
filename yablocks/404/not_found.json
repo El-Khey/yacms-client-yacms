@@ -5,16 +5,16 @@
     },
     "data": {
         "errorCode": "404",
-        "badge": "Page Not Found",
-        "title": "Oops! Lost in Space",
-        "subtitle": "The page you're looking for doesn't exist or has been moved to another location.",
+        "badge": "Page introuvable",
+        "title": "Oups ! Cette page n'existe pas",
+        "subtitle": "La page que vous cherchez n'existe plus ou a \u00e9t\u00e9 d\u00e9plac\u00e9e.",
         "cta": {
             "primary": {
-                "text": "Back to Home",
+                "text": "Retour \u00e0 l'accueil",
                 "link": "/"
             },
             "secondary": {
-                "text": "Go Back"
+                "text": "Page pr\u00e9c\u00e9dente"
             }
         }
     }

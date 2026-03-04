@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "component": "blocks/layout/footer/FooterColumns",
+    "section": "home/footer-columns"
+  },
+  "data": {
+    "brand": {
+      "alt": "YACMS",
+      "tagline": "Nous concevons des sites web performants, élégants et optimisés pour convertir. De la maquette à la mise en ligne, YACMS est votre partenaire digital.",
+      "logo": "/logos/YACMS (1).png"
+    },
+    "contact": {
+      "phone": "+33 7 00 00 00 00",
+      "email": "contact@yacms.dev",
+      "address": "Paris, France",
+      "hours": "Lun-Ven : 9h-18h"
+    },
+    "socialLinks": [
+      {
+        "platform": "instagram",
+        "href": "https://github.com/zestones/yacms"
+      },
+      {
+        "platform": "linkedin",
+        "href": "https://linkedin.com"
+      },
+      {
+        "platform": "twitter",
+        "href": "https://twitter.com"
+      }
+    ],
+    "linkGroups": [
+      {
+        "title": "Services",
+        "links": [
+          {
+            "text": "Site vitrine",
+            "href": "#feature"
+          },
+          {
+            "text": "Landing page",
+            "href": "#use-case"
+          },
+          {
+            "text": "E-commerce",
+            "href": "#pricing"
+          }
+        ]
+      },
+      {
+        "title": "Entreprise",
+        "links": [
+          {
+            "text": "À propos",
+            "href": "#about"
+          },
+          {
+            "text": "Réalisations",
+            "href": "#use-case"
+          },
+          {
+            "text": "Contact",
+            "href": "#contact"
+          }
+        ]
+      },
+      {
+        "title": "Ressources",
+        "links": [
+          {
+            "text": "FAQ",
+            "href": "#faq"
+          },
+          {
+            "text": "Blog",
+            "href": "/blog"
+          },
+          {
+            "text": "Devis gratuit",
+            "href": "#pricing"
+          }
+        ]
+      }
+    ],
+    "legal": {
+      "copyright": "YACMS — Tous droits réservés.",
+      "links": [
+        {
+          "text": "Mentions légales",
+          "href": "/mentions-legales"
+        },
+        {
+          "text": "Politique de confidentialité",
+          "href": "/confidentialite"
+        },
+        {
+          "text": "CGU",
+          "href": "/cgu"
+        }
+      ]
+    },
+    "certifications": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "component": "blocks/content/features/FeatureGrid001",
+    "section": "home/feature-grid001"
+  },
+  "data": {
+    "title": "Tout ce qu'il faut pour un site web qui performe",
+    "features": [
+      {
+        "title": "Design sur mesure",
+        "description": "Chaque site est conçu spécifiquement pour votre marque. Pas de templates génériques : nous créons une identité visuelle unique qui reflète votre activité et capte l'attention de vos visiteurs.",
+        "image": {
+          "src": "/images/design.jpg",
+          "alt": "Interface de design personnalisé"
+        },
+        "size": "small"
+      },
+      {
+        "title": "Performance & SEO",
+        "description": "Des sites ultra-rapides avec un score Lighthouse de 95+ et une optimisation SEO native. Vos pages se chargent en moins d'une seconde et se positionnent en haut des résultats Google.",
+        "image": {
+          "src": "/images/seo.avif",
+          "alt": "Tableau de performance"
+        },
+        "size": "large"
+      },
+      {
+        "title": "Responsive & Accessible",
+        "description": "Votre site s'adapte parfaitement à tous les écrans — mobile, tablette et desktop. Nous respectons les standards d'accessibilité pour que chaque visiteur profite d'une expérience optimale.",
+        "image": {
+          "src": "/images/reponsive.jpg",
+          "alt": "Vue responsive multi-écrans"
+        },
+        "size": "large"
+      },
+      {
+        "title": "Administration simple",
+        "description": "Gérez votre contenu en toute autonomie grâce à notre interface d'administration intuitive. Modifiez vos textes, images et pages en quelques clics, sans aucune compétence technique.",
+        "image": {
+          "src": "/images/robot.jpg",
+          "alt": "Interface d'administration"
+        },
+        "size": "small"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero007",
+    "section": "home/hero007"
+  },
+  "data": {
+    "badge": "Votre site web, prêt en quelques jours",
+    "title": "Des sites web sur mesure qui convertissent vos visiteurs en clients",
+    "subBadge": "Design moderne. Performance maximale. Zéro compromis.",
+    "subtitle": "YACMS conçoit des sites vitrines, e-commerce et landing pages optimisés pour le SEO, ultra-rapides et parfaitement adaptés à votre image de marque",
+    "cta": {
+      "primary": {
+        "text": "Demander un devis gratuit",
+        "link": "#pricing"
+      },
+      "secondary": {
+        "text": "Voir nos réalisations",
+        "link": "#use-case"
+      }
+    },
+    "heroImage": "/images/hero.png",
+    "heroImageAlt": "Aperçu d'un site web créé par YACMS"
+  }
+}

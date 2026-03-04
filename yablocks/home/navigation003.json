@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "component": "blocks/layout/navigation/Navigation003",
+    "section": "home/navigation003"
+  },
+  "data": {
+    "logo": {
+      "image": "/logos/YACMS (1).png",
+      "text": "YACMS",
+      "href": "/home"
+    },
+    "links": [
+      {
+        "label": "Fonctionnalités",
+        "href": "#feature"
+      },
+      {
+        "label": "Cas d'usage",
+        "href": "#use-case"
+      },
+      {
+        "label": "Tarifs",
+        "href": "#pricing"
+      },
+      {
+        "label": "FAQ",
+        "href": "#faq"
+      }
+    ],
+    "cta": {
+      "text": "Lancer mon projet",
+      "href": "#pricing"
+    }
+  }
+}
