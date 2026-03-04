@@ -11,22 +11,22 @@
         "cardImage": "/images/btp.avif",
         "badge": "PME",
         "quote": "YACMS a livré notre site en 5 jours. Le design est élégant, les clients nous trouvent enfin sur Google. Notre chiffre d'affaires a bondi de 40%.",
-        "name": "Sophie Laurent",
-        "role": "Fondatrice, Atelier Lumière"
+        "name": "Industrial pipeline analysis",
+        "role": "Entreprise d'analyse de donné"
       },
       {
-        "cardImage": "/images/chaufferie.jpg",
-        "badge": "Startup",
+        "cardImage": "/images/volta.jpg",
+        "badge": "Sarl",
         "quote": "On avait besoin d'une landing page percutante pour notre levée de fonds. YACMS a dépassé toutes nos attentes en termes de qualité et de rapidité.",
-        "name": "Thomas Mercier",
-        "role": "CEO, NovaTech"
+        "name": "Thermosolis",
+        "role": "Entreprise btp"
       },
       {
         "cardImage": "/images/photo-1591604129939-f1efa4d9f7fa.jpg",
-        "badge": "E-commerce",
+        "badge": "Association",
         "quote": "Le site est ultra-rapide, le SEO est impeccable et je peux modifier mon contenu moi-même. C'est exactement ce qu'il me fallait pour développer ma boutique.",
-        "name": "Amina Belkacem",
-        "role": "Gérante, Maison Amina"
+        "name": "Al Wiffaq",
+        "role": "Mosquée de montchovet"
       },
       {
         "cardImage": "/images/pcgrat.jpg",
