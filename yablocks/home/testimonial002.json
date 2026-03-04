@@ -10,45 +10,35 @@
       {
         "cardImage": "/images/btp.avif",
         "badge": "PME",
-        "companyLogo": "/images/AkiraSatoInterrupteur .png",
         "quote": "YACMS a livré notre site en 5 jours. Le design est élégant, les clients nous trouvent enfin sur Google. Notre chiffre d'affaires a bondi de 40%.",
-        "avatar": "/images/tete.png",
         "name": "Sophie Laurent",
         "role": "Fondatrice, Atelier Lumière"
       },
       {
         "cardImage": "/images/chaufferie.jpg",
         "badge": "Startup",
-        "companyLogo": "/images/tanjiro-kamado-3840x2160-23027.jpg",
         "quote": "On avait besoin d'une landing page percutante pour notre levée de fonds. YACMS a dépassé toutes nos attentes en termes de qualité et de rapidité.",
-        "avatar": "/images/testimonials/avater-img-04.webp",
         "name": "Thomas Mercier",
         "role": "CEO, NovaTech"
       },
       {
         "cardImage": "/images/photo-1591604129939-f1efa4d9f7fa.jpg",
         "badge": "E-commerce",
-        "companyLogo": "/images/logos/logo-04.webp",
         "quote": "Le site est ultra-rapide, le SEO est impeccable et je peux modifier mon contenu moi-même. C'est exactement ce qu'il me fallait pour développer ma boutique.",
-        "avatar": "/images/testimonials/avater-img-02.webp",
         "name": "Amina Belkacem",
         "role": "Gérante, Maison Amina"
       },
       {
         "cardImage": "/images/pcgrat.jpg",
         "badge": "Agence",
-        "companyLogo": "/images/logos/logo-02.webp",
         "quote": "Nous recommandons YACMS à tous nos clients. La qualité du code, la performance et le support sont d'un niveau qu'on trouve rarement à ce prix.",
-        "avatar": "/images/testimonials/avater-img-06.webp",
         "name": "Julien Moreau",
         "role": "Directeur, Studio Pixel"
       },
       {
         "cardImage": "/images/gro.jpg",
         "badge": "Indépendant",
-        "companyLogo": "/images/logos/logo-01.webp",
         "quote": "En tant que photographe, mon site est ma vitrine. YACMS m'a créé un portfolio magnifique qui charge instantanément. Mes clients adorent.",
-        "avatar": "/images/testimonials/card-img-03.webp",
         "name": "Clara Dubois",
         "role": "Photographe indépendante"
       }
