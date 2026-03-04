@@ -6,7 +6,8 @@
   "data": {
     "brand": {
       "alt": "YACMS",
-      "tagline": "Nous concevons des sites web performants, élégants et optimisés pour convertir. De la maquette à la mise en ligne, YACMS est votre partenaire digital."
+      "tagline": "Nous concevons des sites web performants, élégants et optimisés pour convertir. De la maquette à la mise en ligne, YACMS est votre partenaire digital.",
+      "logo": "/logos/YACMS (1).png"
     },
     "contact": {
       "phone": "+33 7 00 00 00 00",
